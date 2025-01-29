@@ -77,7 +77,7 @@ Ensure you have the following installed:
 - **Expansion to Additional Stocks and Sectors**
 
 ## License
-This project is licensed under the **MIT License**. Feel free to use and modify.
+This project is licensed under the **MIT License**.
 
 ## Contact
 For any inquiries, feel free to reach out via GitHub Issues or contact the project members.
